@@ -8,7 +8,10 @@ Navigate to Wiki tab for full guide!
 https://github.com/NaimFuad/RaspberryPiWithOpenCV/wiki
 
 Video Demonstration is also on Youtube 
-https://youtu.be/TrnW3urN6BY
+Installing OpenCV - https://youtu.be/TrnW3urN6BY
+Line Following Car with OpenCV - https://youtu.be/IjWDUnLq1cg
+
+
 
 Short on time? Use the preconfigured image instead!
 
